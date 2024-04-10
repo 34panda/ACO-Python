@@ -13,7 +13,7 @@ for i in range(14):
     points.update({str(i): (random(), random())})
 
 alpha = 1
-beta = 100
+beta = 4
 
 ##########################
 
